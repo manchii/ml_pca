@@ -1,10 +1,15 @@
 # Práctica 1
-Para evaluar:
-Estudio y aplicaciones de PCA en: 
-'
+Para evaluar
+
+1. Estudio y aplicaciones de PCA en: 
+
+```
 PCA_tarea.ipynb
-'
-Ejercicio de PCA: 
-'
+```
+
+
+2. Ejercicio de PCA: 
+
+```
 PCA_OpNetwrks.ipynb
-'
+```
